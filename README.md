@@ -11,10 +11,10 @@ Repositório individual com os exercícios e tarefas da disciplina de Ciência d
 
 A pasta [`Unidade_01`](Unidade_01) é o projeto de vendas da unidade: contém o `requirements.txt`, o README do projeto e a pasta `data/`, e cada aula fica na sua pasta `Aula_XX`.
 
-- **Aula 01 — Ferramentas, Ambiente e Versionamento:** [exercicio_aula01.ipynb](Unidade_01/Aula_01/exercicio_aula01.ipynb)
-- **Aula 02 — Introdução aos Dados Tabulares:** [exercicio_aula02.ipynb](Unidade_01/Aula_02/exercicio_aula02.ipynb)
-- **Aula 03 — Análise de Vendas em Python:** [exercicio_aula03.ipynb](Unidade_01/Aula_03/exercicio_aula03.ipynb)
-- **Aula 04 — Análise de Vendas em R:** [exercicio_aula04.ipynb](Unidade_01/Aula_04/exercicio_aula04.ipynb)
+- **Aula 01 (24/08) — Ferramentas, Ambiente e Versionamento:** [exercicio_aula01.ipynb](Unidade_01/Aula_01/exercicio_aula01.ipynb)
+- **Aula 02 (26/08) — Introdução aos Dados Tabulares:** [exercicio_aula02.ipynb](Unidade_01/Aula_02/exercicio_aula02.ipynb)
+- **Aula 03 (05/10) — Análise de Vendas em Python:** [exercicio_aula03.ipynb](Unidade_01/Aula_03/exercicio_aula03.ipynb)
+- **Aula 04 (12/10) — Análise de Vendas em R:** [exercicio_aula04.ipynb](Unidade_01/Aula_04/exercicio_aula04.ipynb)
 
 ## Como reproduzir
 
