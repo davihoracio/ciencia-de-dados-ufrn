@@ -13,6 +13,7 @@ A pasta [`Unidade_01`](Unidade_01) é o projeto de vendas da unidade: contém o 
 
 - **Aula 01 — Ferramentas, Ambiente e Versionamento:** [exercicio_aula01.ipynb](Unidade_01/Aula_01/exercicio_aula01.ipynb)
 - **Aula 02 — Introdução aos Dados Tabulares:** [exercicio_aula02.ipynb](Unidade_01/Aula_02/exercicio_aula02.ipynb)
+- **Aula 03 — Análise de Vendas em Python:** [exercicio_aula03.ipynb](Unidade_01/Aula_03/exercicio_aula03.ipynb)
 
 ## Como reproduzir
 
